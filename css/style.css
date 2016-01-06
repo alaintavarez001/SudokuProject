@@ -1,0 +1,52 @@
+table{
+    border: 2px solid black;
+    width: 540px;
+    height: 540px;
+}
+
+h1{
+    font-family:fantasy;
+    font-size: 50px;
+
+}
+
+h2{
+    font-family: fantasy;
+}
+
+td{
+    border: 1px solid black;
+    width: 60px;
+    height: 60px;
+}
+
+input,td{
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy;
+    width: 60px;
+    
+}
+
+.rightborder{
+    border-right: 2px solid black;
+}
+
+.leftborder{
+    border-left: 2px solid black;
+}
+
+.topborder{
+    border-top: 2px solid black;
+}
+
+.bottomborder{
+    border-bottom: 2px solid black;
+}
+
+.button{
+    margin: 0 auto;
+    display: block;
+    height: 50px;
+    width: 200px;
+}
